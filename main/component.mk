@@ -1,0 +1,1 @@
+COMPONENT_EMBED_FILES := server_root_cert.pem
