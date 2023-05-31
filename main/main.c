@@ -77,8 +77,6 @@ static void wifi_init(void)
 }
 
 void chat_with_gpt(const char* message) {
-
-    //char *output_buffer[4096] = {0};   // Buffer to store response of http request 
     int content_length = 0; 
 
     esp_http_client_config_t config = {
